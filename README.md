@@ -1,7 +1,5 @@
 ### Analysis-of-Factors-Affecting-Student-Depression-Using-Demographic-Data-and-Academic-Achievement
 
-### Analisis Faktor-Faktor yang Mempengaruhi Depresi Siswa Menggunakan Data Demografis dan Kinerja Akademik
-
 #### 📖 Deskripsi Proyek
 
 Proyek ini bertujuan untuk mengembangkan sistem klasifikasi tingkat depresi siswa berdasarkan berbagai faktor yang berkontribusi terhadap kesehatan mental siswa. Sistem ini akan menggunakan beberapa model Machine Learning seperti Feedforward Neural Network (FNN) dan Random Forest untuk memprediksi apakah seorang siswa mengalami depresi atau tidak.
